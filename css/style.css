@@ -8,8 +8,8 @@
 }
 .contenedorlogo img {
 
-  width: 80px;
-  height: 80px;
+  width: 70px;
+  height: 70px;
 }
   header {
     background-color: #ffb8da;
@@ -87,7 +87,7 @@ p {
   /* Ajusta el tamaño de las imágenes según tu preferencia */
 }
   footer {
-    background-color: #6420AA;
+    background-color:#6420AA;
     color: #fff;
     padding: 40px 0;
   }
